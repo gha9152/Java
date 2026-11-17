@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.NetworkReceiver" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2196F3</item>
+    </style>
+
+    <style name="Theme.NetworkReceiver" parent="Base.Theme.NetworkReceiver" />
+</resources>
